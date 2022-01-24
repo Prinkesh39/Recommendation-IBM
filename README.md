@@ -47,4 +47,5 @@ Also,after applying the SVD we found that Accuracy for Train data increase with 
 Licensing, Authors, Acknowledgements, etc.
 
 Thanks to UDACITY for providing various starter codes as well as tests.
+Referred to StackOverflow as well as previous UDACITIANs for help in queries.
 
